@@ -12,4 +12,5 @@ Employee can view their own attendance and manage their profile.
 >> **mailer** : This file contains the code of sending mails.
 
 > **User code** : This code is in java using jsp and servlet.
->> This has 3differnt modules for super admin,office admin and employes
+>> This has 3 different modules for super admin,office admin and employes
+>> This includes UI and code for user usage.
