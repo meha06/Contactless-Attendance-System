@@ -11,8 +11,10 @@ Employee can view their own attendance and manage their profile.
 >> **attendence** : This file scans the faces from webcam and match with stored images and marks the attendance.
 >> 
 >> **exit entry** : This file scans the faces from webcan and match with stored images and marks the exit time.
+>> 
 >> **mailer** : This file contains the code of sending mails.
 
 > **User code** : This code is in java using jsp and servlet.
 >> This has 3 different modules for super admin,office admin and employes
+>> 
 >> This includes UI and code for user usage.
